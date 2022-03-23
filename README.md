@@ -1,3 +1,3 @@
 ## My first README
 
-## Update README for final as
+## Update README for final assignment
